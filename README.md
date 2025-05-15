@@ -1,4 +1,4 @@
 # Git-Practice
 I Learn about git
 <br/>
-Author: Abhishek
+Author: Abhishek Prajapati
